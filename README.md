@@ -17,31 +17,30 @@
 </div>
 
 <div align="center">
-  <h3>Lenguajes</h3>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,py,html,css" alt="Lenguajes" />
+  <h3>Lenguajes Core</h3>
+  <img src="https://skillicons.dev/icons?i=java,php,dart,js,ts,py,html,css" alt="Lenguajes" />
 </div>
 
 <div align="center">
-  <h3>Frontend & UI</h3>
-  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,materialui,figma" alt="Frontend" />
+  <h3>Frontend, Móvil & UI</h3>
+  <img src="https://skillicons.dev/icons?i=flutter,angular,react,vue,nextjs,vite,pinia,bootstrap,tailwind,materialui,figma" alt="Frontend y Mobile" />
 </div>
 
 <div align="center">
-  <h3>Backend & Servicios</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,nest,express,linux" alt="Backend" />
+  <h3>Backend & Arquitectura</h3>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,nest,express,nginx,linux" alt="Backend" />
 </div>
 
 <div align="center">
   <h3>Base de Datos, Cloud & DevOps</h3>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,dynamodb,prisma,aws,firebase,docker" alt="Data and Cloud" />
+  <img src="https://skillicons.dev/icons?i=aws,netlify,docker,supabase,firebase,postgres,mysql,mongodb,dynamodb,prisma" alt="Data and Cloud" />
 </div>
 
 <div align="center">
-  <h3>Herramientas & Entorno</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="Tools" />
+  <h3>Herramientas, Testing & IDEs</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,jest,postman,idea,vscode,discord" alt="Tools" />
 </div>
 <br>
-
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->

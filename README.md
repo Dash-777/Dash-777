@@ -17,13 +17,21 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologias que conozco 👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Tecnologías 👨🏻‍💻</h2></summary>
   </ul>
 </div>
-<!--tech stack icons-->
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,css,discord,docker,postgres,prisma,dynamodb,express,figma,firebase,vue,github,html,nest,java,js,linux,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,py,html,css,react,vue,nextjs,tailwind,materialui&perline=11" />
+  </a>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,nest,express,postgres,mysql,mongodb,dynamodb,prisma,aws,firebase,docker,linux,nginx&perline=13" />
+  </a>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,postman,vscode,figma,discord" />
   </a>
 </p>
 

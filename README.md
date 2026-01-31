@@ -3,7 +3,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" >, I'm Guillermo </h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -11,29 +10,37 @@
   </ul>
 </div>
 
-
-
-
 <!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías 👨🏻‍💻</h2></summary>
-  </ul>
+<div align="center">
+  <h2>🛠️ Stack Tecnológico</h2>
+  <p>Herramientas y tecnologías que utilizo para dar vida a mis proyectos</p>
 </div>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,py,html,css,react,vue,nextjs,tailwind,materialui&perline=11" />
-  </a>
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,nest,express,postgres,mysql,mongodb,dynamodb,prisma,aws,firebase,docker,linux,nginx&perline=13" />
-  </a>
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,postman,vscode,figma,discord" />
-  </a>
-</p>
+<div align="center">
+  <h3>Lenguajes Core</h3>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,py,html,css" alt="Lenguajes" />
+</div>
+
+<div align="center">
+  <h3>Frontend & UI</h3>
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,materialui,figma" alt="Frontend" />
+</div>
+
+<div align="center">
+  <h3>Backend & Servicios</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,nest,express,nginx,linux" alt="Backend" />
+</div>
+
+<div align="center">
+  <h3>Base de Datos, Cloud & DevOps</h3>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,dynamodb,prisma,aws,firebase,docker" alt="Data and Cloud" />
+</div>
+
+<div align="center">
+  <h3>Herramientas & Entorno</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,discord" alt="Tools" />
+</div>
+<br>
 
 
 <!-- Connect with me -->

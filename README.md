@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <h3>Lenguajes Core</h3>
+  <h3>Lenguajes</h3>
   <img src="https://skillicons.dev/icons?i=java,js,ts,py,html,css" alt="Lenguajes" />
 </div>
 
@@ -38,7 +38,7 @@
 
 <div align="center">
   <h3>Herramientas & Entorno</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,discord" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="Tools" />
 </div>
 <br>
 

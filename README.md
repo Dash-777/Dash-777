@@ -38,7 +38,7 @@
 
 <div align="center">
   <h3>Herramientas, Testing & IDEs</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,jest,postman,idea,vscode,discord" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,jest,postman,idea,vscode" alt="Tools" />
 </div>
 <br>
 

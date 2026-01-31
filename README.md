@@ -28,7 +28,7 @@
 
 <div align="center">
   <h3>Backend & Arquitectura</h3>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,nest,express,nginx,linux" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,nest,express,linux" alt="Backend" />
 </div>
 
 <div align="center">

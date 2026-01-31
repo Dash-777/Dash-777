@@ -18,7 +18,7 @@
 
 <div align="center">
   <h3>Lenguajes Core</h3>
-  <img src="https://skillicons.dev/icons?i=java,php,dart,js,ts,py,html,css" alt="Lenguajes" />
+  <img src="https://skillicons.dev/icons?i=java,php,dart,js,ts,html,css" alt="Lenguajes" />
 </div>
 
 <div align="center">

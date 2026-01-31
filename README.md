@@ -33,7 +33,7 @@
 
 <div align="center">
   <h3>Base de Datos, Cloud & DevOps</h3>
-  <img src="https://skillicons.dev/icons?i=aws,netlify,docker,supabase,firebase,postgres,mysql,mongodb,dynamodb,prisma" alt="Data and Cloud" />
+  <img src="https://skillicons.dev/icons?i=aws,netlify,docker,supabase,firebase,postgres,mysql,mongodb,prisma" alt="Data and Cloud" />
 </div>
 
 <div align="center">
